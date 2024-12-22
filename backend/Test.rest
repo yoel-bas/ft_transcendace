@@ -1,0 +1,6 @@
+POST https://localhost/api/auth/block/ HTTP/1.1
+content-type: application/json
+
+{
+    "username": "mel-yous"
+}

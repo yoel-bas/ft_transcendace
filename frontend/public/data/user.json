@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Newborn",
+    "targetWins": 0,
+    "reward": "Start your journey with a warm welcome",
+    "images": "/images/ach1.jpeg"
+  },
+  {
+    "name": "First Victory",
+    "targetWins": 1,
+    "reward": "Celebrate your first step to greatness.",
+    "images": "/images/second.png"
+  },
+  {
+    "name": "On a Roll",
+    "targetWins": 5,
+    "reward": "You're gaining momentum, keep it up!",
+    "images": "/images/third.png"
+  },
+  {
+    "name": "Double Digits",
+    "targetWins": 10,
+    "reward": "Double-digit wins mark your progress.",
+    "images": "/images/forth.png"
+  },
+  {
+    "name": "Rising Star",
+    "targetWins": 25,
+    "reward": "Your skills are shining bright now.",
+    "images": "/images/star.png"
+  },
+  {
+    "name": "Half Century",
+    "targetWins": 50,
+    "reward": "Reaching 50 wins shows true dedication.",
+    "images": "/images/wise.png"
+  },
+  {
+    "name": "Centurion",
+    "targetWins": 100,
+    "reward": "A hundred victories—you're a true warrior.",
+    "images": "/images/legend1.png"
+  },
+  {
+    "name": "Consistent Champ",
+    "targetWins": 200,
+    "reward": "Your consistency is unmatched.",
+    "images": "/images/great.png"
+  },
+  {
+    "name": "Master Strategist",
+    "targetWins": 500,
+    "reward": "Your strategy has reached mastery level.",
+    "images": "/images/master.png"
+  },
+  {
+    "name": "Unstoppable Force",
+    "targetWins": 1000,
+    "reward": "You've become a force to be reckoned with.",
+    "images": "/images/usnto.png"
+  },
+  {
+    "name": "Legendary Conqueror",
+    "targetWins": 2500,
+    "reward": "Conquering the legends, one win at a time.",
+    "images": "/images/conq.png"
+  },
+  {
+    "name": "Champion of Champions",
+    "targetWins": 5000,
+    "reward": "The ultimate champion among champions.",
+    "images": "/images/champ.png"
+  },
+  {
+    "name": "Immortal Winner",
+    "targetWins": 10000,
+    "reward": "You've achieved immortality in victory.",
+    "images": "/images/legend.png"
+  }
+]

@@ -1,0 +1,125 @@
+{
+    "league": "Premier League",
+    "season": "2023-2024",
+    "teams": [
+      {
+        "teamName": "Manchester City",
+        "wins": 26,
+        "draws": 6,
+        "losses": 6,
+        "points": 84
+      },
+      {
+        "teamName": "Liverpool",
+        "wins": 22,
+        "draws": 9,
+        "losses": 7,
+        "points": 75
+      },
+      {
+        "teamName": "Chelsea",
+        "wins": 20,
+        "draws": 10,
+        "losses": 8,
+        "points": 70
+      },
+      {
+        "teamName": "Arsenal",
+        "wins": 19,
+        "draws": 11,
+        "losses": 8,
+        "points": 68
+      },
+      {
+        "teamName": "Manchester United",
+        "wins": 18,
+        "draws": 10,
+        "losses": 12,
+        "points": 64
+      },
+      {
+        "teamName": "Tottenham Hotspur",
+        "wins": 17,
+        "draws": 8,
+        "losses": 13,
+        "points": 59
+      },
+      {
+        "teamName": "Newcastle United",
+        "wins": 15,
+        "draws": 12,
+        "losses": 11,
+        "points": 57
+      },
+      {
+        "teamName": "West Ham United",
+        "wins": 14,
+        "draws": 10,
+        "losses": 14,
+        "points": 52
+      },
+      {
+        "teamName": "Brighton & Hove Albion",
+        "wins": 13,
+        "draws": 12,
+        "losses": 13,
+        "points": 51
+      },
+      {
+        "teamName": "Aston Villa",
+        "wins": 12,
+        "draws": 14,
+        "losses": 12,
+        "points": 50
+      },
+      {
+        "teamName": "Wolverhampton Wanderers",
+        "wins": 11,
+        "draws": 12,
+        "losses": 15,
+        "points": 45
+      },
+      {
+        "teamName": "Fulham",
+        "wins": 10,
+        "draws": 14,
+        "losses": 14,
+        "points": 44
+      },
+      {
+        "teamName": "Nottingham Forest",
+        "wins": 9,
+        "draws": 13,
+        "losses": 15,
+        "points": 40
+      },
+      {
+        "teamName": "Sheffield United",
+        "wins": 8,
+        "draws": 11,
+        "losses": 17,
+        "points": 35
+      },
+      {
+        "teamName": "Burnley",
+        "wins": 7,
+        "draws": 12,
+        "losses": 17,
+        "points": 33
+      },
+      {
+        "teamName": "Everton",
+        "wins": 6,
+        "draws": 11,
+        "losses": 19,
+        "points": 29
+      },
+      {
+        "teamName": "Luton Town",
+        "wins": 5,
+        "draws": 9,
+        "losses": 22,
+        "points": 24
+      }
+    ]
+  }

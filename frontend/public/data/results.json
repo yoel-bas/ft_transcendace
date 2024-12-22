@@ -1,0 +1,32 @@
+{
+    "userId": 1,
+    "matches": [
+      {
+        "matchId": 101,
+        "date": "2024-09-01",
+        "opponent": {
+          "userId": 4,
+          "username": "Opponent1"
+        },
+        "result": "win",
+        "score": {
+          "userScore": 5,
+          "opponentScore": 2
+        }
+      },
+      {
+        "matchId": 102,
+        "date": "2024-08-30",
+        "opponent": {
+          "userId": 5,
+          "username": "Opponent2"
+        },
+        "result": "lose",
+        "score": {
+          "userScore": 3,
+          "opponentScore": 4
+        }
+      }
+    ]
+  }
+  

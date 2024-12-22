@@ -1,0 +1,26 @@
+{
+    "userId": 1,
+    "username": "JohnDoe",
+    "achievements": [
+      {
+        "id": 1,
+        "title": "Top Scorer",
+        "description": "Scored the highest points in 2023 season"
+      },
+      {
+        "id": 2,
+        "title": "Veteran Player",
+        "description": "Played 1000 matches"
+      }
+    ],
+    "friends": [
+      {
+        "userId": 2,
+        "username": "JaneSmith"
+      },
+      {
+        "userId": 3,
+        "username": "MikeJones"
+      }
+    ]
+}  

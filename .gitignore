@@ -1,0 +1,11 @@
+frontend/node_modules
+backend/.env
+backend/ssl/*
+backend/*/migrations
+backend/*/__pycache__
+frontend/db.json
+frontend/.next
+.env
+database/*
+virtualenv
+redis/*
